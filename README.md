@@ -1,6 +1,6 @@
 ## Projects
 
-In this section, you will find detailed project plans and comprehensive reports for ongoing and completed respiratory projects. These documents provide insights into project objectives, methodologies, findings, and outcomes, contributing to the collective knowledge in respiratory research and development.
+In this section, you will find detailed project plans and comprehensive reports on University projects. These documents provide insights into project objectives, methodologies, findings, and outcomes, contributing to the collective knowledge in respiratory research and development.
 
 ### Database Management System for Tennis Tournament
 
