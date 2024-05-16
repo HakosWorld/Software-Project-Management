@@ -4,22 +4,18 @@ In this section, you will find detailed project plans and comprehensive reports 
 
 ### Database Management System for Tennis Tournament
 
-- [Project Plan](Database_Management_System_for_Tennis_Tournament/Database%20Management%20System%20for%20Tennis%20Tournament_Plan.md)
-- [Project Report](Database_Management_System_for_Tennis_Tournament/Database%20Management%20System%20for%20Tennis%20Tournament_Report.pdf)
+- [Project Plan](Software-Project-Management/Database%20Management%20System%20for%20Tennis%20Tournament.pdf)
 
 ### Design & Architecture for Library Management System
 
-- [Project Plan](Design_&_Architecture_for_Library_Management_System/Design%20&%20Architecture%20for%20Library%20Management%20System_Plan.md)
-- [Project Report](Design_&_Architecture_for_Library_Management_System/Design%20&%20Architecture%20for%20Library%20Management%20System_Report.pdf)
-- [Software Requirements Specification](Design_&_Architecture_for_Library_Management_System/Software%20Requirements%20Specification%20for%20Library%20Management%20System.pdf)
+- [Project Plan](Software-Project-Management/Design%20&%20Architecture%20for%20Library%20Management%20System.pdf)
 
 ### Finance Mobile Application
 
-- [Project Plan](Finance_Mobile_Application/Finance%20Mobile%20Application_Plan.md)
-- [Project Report](Finance_Mobile_Application/Finance%20Mobile%20Application_Report.pdf)
+- [Project Plan](Software-Project-Management/Finance%20Mobile%20Application.pdf)
 
 ### Online Registration System
 
-- [Project Plan](Online_Registration_System/Online%20Registration%20System_Plan.md)
+- [Project Plan](Software-Project-Management/Online%20Registration%20System.pdf)
 
 Feel free to explore the individual projects to delve into their details, including objectives, methodologies, findings, and outcomes.
