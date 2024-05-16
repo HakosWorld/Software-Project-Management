@@ -4,7 +4,7 @@ In this section, you will find detailed project plans and comprehensive reports 
 
 ### Database Management System for Tennis Tournament
 
-- [Project Plan](Software-Project-Management/Database%20Management%20System%20for%20Tennis%20Tournament.pdf)
+- [Project Plan](Database-Management-System-for-Tennis-Tournament.pdf)
 
 ### Design & Architecture for Library Management System
 
