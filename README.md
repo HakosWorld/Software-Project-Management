@@ -9,7 +9,7 @@ In this section, you will find detailed project plans and comprehensive reports 
 ### Library Management System
 
 - [Design & Architecture](Design-&-Architecture-for-Library-Management-System.pdf)
-- [Software Requirements Specification](Design-&-Architecture-for-Library-Management-System.pdf)
+- [Software Requirements Specification](Software-Requirements-Specification.pdf)
 
 ### Finance Mobile Application
 
